@@ -5,9 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class WebclientsApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(WebclientsApplication.class, args);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(WebclientsApplication.class, args);
+  }
 
 }
